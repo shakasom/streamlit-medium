@@ -1,4 +1,4 @@
-# streamlit medium Article
+# Streamlit Medium Article
 
 ![image2](https://cdn-images-1.medium.com/max/1320/1*ne2ghXKMRwg2_g9kQbzutQ.png)
 
